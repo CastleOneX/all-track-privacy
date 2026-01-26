@@ -62,4 +62,4 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 
 If you have questions about this Privacy Policy, please open an issue on our GitHub repository:
 
-- GitHub: **https://github.com/CastleOneX/all-track/issues**
+- GitHub: **https://github.com/CastleOneX/all-track-privacy/issues**
