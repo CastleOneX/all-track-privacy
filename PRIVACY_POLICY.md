@@ -106,6 +106,8 @@ By using All-Track, you acknowledge that you have read and understood this Priva
 
 For questions, concerns, or to exercise your privacy rights, please contact:
 
-- **GitHub**: https://github.com/CastleOneX/all-track/issues
+- **Email**: all-track-app@proton.me
 
 We will make reasonable efforts to respond to your inquiries in a timely manner.
+
+© 2026 All-Track App. All rights reserved.
