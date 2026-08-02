@@ -1,113 +1,78 @@
 # Privacy Policy — All-Track
 
-Last updated: 2026-01-31
+**Last updated: 27 July 2026**
 
-This Privacy Policy explains how **All-Track** (the "App") collects, uses, and protects information.
+Castle One X (“we”) processes information through **All-Track** (the “App”) as set out below.
 
+## 1. Data Categories
 
-## 1) Summary
+We may process:
 
-- The App provides price tracking and market insights through on-device and cloud-based features.
-- We collect certain information to deliver and improve our services.
-- We prioritize your privacy and handle data according to industry standards and applicable regulations.
-- Third-party websites accessed through the App have their own privacy practices.
+- Information related to products or content selected by the user, including references, observed details, prices, alerts and preferences.
+- Shopping-list and purchase-related information, including selections, retailers, stores, comparisons, totals, outcomes and timestamps.
+- App and service information, including identifiers, consent, settings, diagnostics, regional information and service activity.
+- Location information when authorised for location-based functions.
 
-## 2) Information We May Collect
+Core user-directed functions are performed on-device. Other functions may require data exchanges with All-Track or third-party services.
 
-### A) Device-Based Information
-The App may store locally on your device:
-- Product information and preferences
-- Usage data and app settings
-- Technical information necessary for app functionality
-- Your privacy preferences and consent status
+## 2. Location Data
 
-### B) Service Information
-To provide and improve our services, we may collect:
-- Device and usage identifiers
-- Product-related information you choose to track
-- Interaction data and timestamps
-- Technical information for service delivery
-- Regional information to enhance service relevance
-- Other information as described in this policy or disclosed at time of collection
+Following a user request and device permission, the App may process foreground location information to provide location-based functions. All-Track does not use background location. Location and related regional or store information may be retained or disclosed to service providers where necessary to provide, maintain or secure those functions. The functions may be unavailable without the required permission or information.
 
-We collect only information necessary to provide our services and improve user experience.
+## 3. Purposes
 
-## 3) How We Use Information
+We process information to:
 
-We use collected information to:
-- Provide, maintain, and improve our services
-- Develop new features and functionality
-- Analyze usage patterns and trends
-- Communicate with you about our services
-- Comply with legal obligations
-- Protect our rights and prevent misuse
-- For other purposes disclosed at time of collection
+- Provide user-configured checks, price lookup, shopping-list, store-discovery, notification, backup and synchronisation functions.
+- Operate, secure, diagnose and improve the App and related services.
+- Analyse product demand, prices, comparisons, feature use and shopping outcomes.
+- Produce research, benchmarks, aggregated insights and commercial products.
+- Enforce terms, prevent misuse and comply with law.
 
-## 4) Information Sharing
+The App may request permissions required by enabled functions, including notifications and foreground location. Permissions are controlled through device settings. Denial may disable the related function.
 
-We do not sell your personal information. We may share information:
-- In aggregated or anonymized form that cannot identify you
-- With service providers who assist in operating our services
-- To comply with legal obligations or protect our rights
-- With your consent or at your direction
-- In connection with business transactions (e.g., merger, acquisition)
+## 4. Analytics
 
+Pseudonymous analytics records may include data associated with Track, Shopping List, store-discovery and comparison functions, including product references, observed results, user selections, retailers, branches, totals, status, timestamps and related technical data.
 
-## 5) Third-Party Services
+Records may be aggregated or de-identified for analytics, research, product development and commercial use.
 
-The App may provide access to third-party websites and services. These third parties have their own privacy practices and terms of service. We are not responsible for the privacy practices of third-party services. We encourage you to review their policies before providing information to them.
+## 5. Disclosure
 
-## 6) Permissions and Features
+We may disclose information:
 
-The App may request certain device permissions to provide functionality, including but not limited to:
+- To service providers acting for us.
+- To retailers or website operators when performing a user-requested operation.
+- To connected services at the user’s direction.
+- In aggregated or de-identified form for research, benchmarking, product development or commercial purposes.
+- As required by law, security, enforcement, corporate transaction or protection of rights.
 
-- **Network access**: To load content and sync data
-- **Notifications**: To provide alerts and updates
-- **Background processing**: To deliver features when the app is not active
-- **Other permissions**: As needed for specific features and disclosed at time of request
+We do not sell raw personal information. Third-party services apply their own terms and privacy practices.
 
-You can manage permissions through your device settings. Some features may not be available if permissions are denied.
+## 6. Retention and Security
 
-## 7) Data Retention and Your Rights
+Information is retained as reasonably required for the relevant function, operations, analytics, security, legal compliance and legitimate business purposes. User-controlled information may remain until removed through the App or device.
 
-We retain information for as long as necessary to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. Retention periods vary based on data type, purpose, and legal requirements.
+We apply reasonable technical and organisational safeguards. No transmission or storage system is completely secure. Processing may occur internationally subject to applicable law.
 
-**Your Rights:**
-You may have certain rights regarding your information, which may include:
-- Accessing information we hold about you
-- Requesting correction of inaccurate information
-- Requesting deletion of your information
-- Objecting to certain processing activities
-- Other rights under applicable law
+## 7. Rights and Choices
 
-To exercise these rights, contact us at **all-track-app@proton.me**. We will respond in accordance with applicable law. Some data may be retained as required by law or for legitimate business purposes.
+Users may manage permissions and available controls through the App or device. Applicable law may provide rights of access, correction, objection or deletion. Requests may require information sufficient to locate the relevant records.
 
-## 8) Security
+Contact: **all-track-app@proton.me**
 
-We implement reasonable security measures to protect information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+## 8. Children
 
-## 9) International Users
+The App is not directed to persons under 13 or the applicable minimum age. If we identify prohibited collection from a child, we may delete the relevant records.
 
-Our services may be provided from various locations. By using our services, you understand that your information may be transferred to, stored, and processed in locations that may have different data protection laws than your jurisdiction. We take steps to ensure appropriate protection of your information.
+## 9. Changes
 
-## 10) Children's Privacy
+We may amend this Policy. Material amendments may require renewed acknowledgement.
 
-Our services are not directed to individuals under the age of 13 (or applicable age of consent). We do not knowingly collect information from children. If we become aware of such collection, we will take appropriate steps to delete the information.
+## 10. Controller
 
-## 11) Changes to This Policy
+**Castle One X / All-Track**
+**Email:** all-track-app@proton.me
 
-We may update this Privacy Policy from time to time. Changes will be indicated by the "Last updated" date. We encourage you to review this policy periodically. Continued use of our services after changes constitutes acceptance of the updated policy. For material changes, we may provide additional notice.
+© 2026 All-Track App.
 
-## 12) Consent and Agreement
-
-By using All-Track, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. If you do not agree, please do not use our services.
-
-## 13) Contact Us
-
-For questions, concerns, or to exercise your privacy rights, please contact:
-
-- **Email**: all-track-app@proton.me
-
-We will make reasonable efforts to respond to your inquiries in a timely manner.
-
-© 2026 All-Track App. All rights reserved.
