@@ -1,49 +1,79 @@
 # ALL-TRACK TERMS OF SERVICE
 
-**Last updated: February 2026**
+**Last updated: 27 July 2026**
 
-By downloading, accessing, or using All-Track (hereinafter, "the Application"), owned by Castle One X (hereinafter, "the Company", "we", or "our"), you agree to be legally bound by these Terms of Service. If you do not agree with any of the provisions described herein, you must uninstall and cease using the Application immediately.
+These Terms govern use of **All-Track**, provided by Castle One X (“we”). Use of the App constitutes acceptance of these Terms and the Privacy Policy.
 
-## 1. Nature and Definition of the Service
+## 1. Service
 
-All-Track is a software tool designed for personal organization and tracking updates of public content on the internet. The Application functions as an assistance utility that allows the user to configure alerts and notifications regarding changes to web links of their interest. The Company provides solely the interface and software infrastructure to facilitate this periodic consultation. The Company does not direct, select, host, or control the web destinations, the frequency of consultation, or the information that the user chooses to monitor via the Application.
+All-Track is a user-directed application for checking public content and price information, managing shopping lists, comparing retailers, locating stores, issuing notifications and related functions. Core functions are provided on-device. Checks may be manual or scheduled by the user. Some functions rely on All-Track or third-party services.
 
-## 2. User Responsibility and Acceptable Use
+The user selects the content and destinations processed by the App. All-Track does not host or control third-party websites or their content. Availability varies by device, region, retailer and configuration.
 
-You acknowledge and agree that you are solely responsible for all actions executed through your local instance of the Application. By using All-Track as your browsing agent, you agree to:
+## 2. Third-Party Data and Transactions
 
-*   Use the Application in strict compliance with all applicable local, national, and international laws.
-*   Respect the Terms of Service, Acceptable Use Policies, and access guidelines of any server, website, or third-party service you choose to access using the Application.
+Prices, availability, product matches, package data, branches, distances and totals originate from or depend on third parties and may be inaccurate, incomplete or delayed. Users must verify product, quantity, price and store before purchase.
 
-The Company assumes no responsibility for any infractions, penalties, or any access restrictions imposed by third parties as a result of the user's use of the Application.
+All-Track is not a retailer, seller, payment provider, financial adviser or party to any third-party transaction. Third-party terms and policies apply.
 
-## 3. Disclaimer of Warranties (AS IS)
+## 3. Location and Permissions
 
-The Application is provided on an "AS IS" and "AS AVAILABLE" basis. The Company expressly disclaims all warranties, whether express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that the Application will function uninterrupted, error-free, or that the data processed by the local agent will be accurate or obtained in real-time.
+Nearby-store functions may process foreground location following user authorisation. Denial or revocation may restrict location-dependent functions. The App does not use background location for these functions.
 
-## 4. Limitation of Liability
+## 4. User Content and Data Licence
 
-To the maximum extent permitted by applicable law, in no event shall the Company, its directors, employees, or affiliates be liable for any direct, indirect, incidental, special, consequential, or punitive damages. This includes, without limitation, loss of profits, loss of data, loss of business opportunities, excessive consumption of device resources (battery, mobile data), or hardware wear and tear resulting from the use or inability to use the Application.
+Users retain rights in content they provide. Users grant us a worldwide, non-exclusive licence to host, process, reproduce and analyse that content as required to operate, secure, support and improve the service.
 
-In jurisdictions that do not allow the total exclusion of liability, the Company's cumulative liability shall be strictly limited to the amount you have paid to the Company for the use of the Application during the twelve (12) months preceding the event giving rise to the claim.
+We may use aggregated or de-identified service data for analytics, research, benchmarking, product development and commercial purposes, subject to the Privacy Policy.
 
-## 5. Indemnification
+## 5. Acceptable Use
 
-You agree to defend, indemnify, and hold harmless the Company from and against any claims, demands, damages, obligations, losses, or expenses (including reasonable attorneys' fees) arising from:
-(a) your use of the Application;
-(b) your violation of these Terms; or
-(c) your violation of any third-party right, including intellectual property rights or external platform terms of service.
+Users must not:
 
-## 6. Intellectual Property
+- Violate applicable law or third-party rights.
+- Violate third-party terms, acceptable-use policies or access rules.
+- Disrupt, damage or obtain unauthorised access to systems or services.
+- Circumvent security, access controls or legal restrictions.
+- Resell, redistribute, reverse engineer or commercially exploit the App except as permitted by law or written authorisation.
 
-The Application, including its source code, automation algorithms, design, and interfaces, is the exclusive property of the Company and is protected by intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the Application for personal purposes. Reverse engineering, decompilation, modification, or unauthorized distribution of the software is strictly prohibited.
+Users are responsible for operations initiated through the App. Third parties may restrict or block access to their services. We are not responsible for third-party penalties or access restrictions resulting from user activity.
 
-## 7. Modifications to the Service and Terms
+## 6. Accounts, Backup and Availability
 
-We reserve the right to modify, suspend, or discontinue the Application (or any part thereof) at any time, without prior notice. Furthermore, we may update these Terms periodically. Your continued use of the Application following the posting of modifications will constitute your acceptance of the new Terms.
+Users are responsible for account security, device configuration and independent copies of important data. Synchronisation, notifications, backups and historical records may fail, be delayed or become unavailable.
 
-## 8. Governing Law and Dispute Resolution
+We may suspend access for security, maintenance, legal compliance or misuse.
 
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction where Castle One X is legally registered, without giving effect to its conflict of law principles. Any legal dispute shall be submitted to the exclusive jurisdiction of the competent courts in said jurisdiction.
+## 7. Intellectual Property
 
-© 2026 All-Track App. All rights reserved.
+The App, underlying technology, interfaces, designs, branding and original content belong to Castle One X or its licensors. Users receive a limited, revocable, non-exclusive and non-transferable personal-use licence. Reverse engineering, modification or unauthorised distribution is prohibited except where applicable law permits it.
+
+## 8. Disclaimer
+
+The App is provided **“as is”** and **“as available”**. To the maximum extent permitted by law, implied warranties of accuracy, availability, merchantability, fitness and non-infringement are excluded. Mandatory consumer rights remain unaffected.
+
+## 9. Liability
+
+To the maximum extent permitted by law, Castle One X and its affiliates exclude liability for direct, indirect, incidental, special, consequential or punitive loss, including loss of profit, savings, data, opportunity or goodwill; excessive battery, mobile-data or other device-resource consumption; and hardware degradation arising from use or inability to use the App.
+
+Where liability cannot be excluded, aggregate liability is limited to the amount paid for All-Track during the preceding 12 months, unless applicable law requires otherwise.
+
+## 10. Indemnity
+
+To the extent permitted by law, users shall indemnify Castle One X against claims, losses, liabilities and reasonable costs arising from their unlawful use of the App, breach of these Terms or infringement of third-party rights.
+
+## 11. Changes and Termination
+
+We may amend these Terms or modify, restrict, suspend or discontinue the App or any function. Material amendments may require renewed acceptance. Users may stop using the App at any time. Provisions intended to survive termination remain effective.
+
+## 12. Governing Law
+
+These Terms are governed by the laws applicable where Castle One X is legally established, without limiting mandatory user rights. Competent courts of that jurisdiction have authority unless applicable law provides otherwise.
+
+## 13. Contact
+
+**Castle One X / All-Track**
+**Email:** all-track-app@proton.me
+
+© 2026 All-Track App.
+
