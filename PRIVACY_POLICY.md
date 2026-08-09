@@ -1,8 +1,8 @@
-# Privacy Policy — All-Track
+# Privacy Policy — T-Shop
 
-**Last updated: 27 July 2026**
+**Last updated: 7 August 2026**
 
-Castle One X (“we”) processes information through **All-Track** (the “App”) as set out below.
+Castle One X (“we”) processes information through **T-Shop** (formerly **All-Track App**) (the “App”) as set out below.
 
 ## 1. Data Categories
 
@@ -13,11 +13,11 @@ We may process:
 - App and service information, including identifiers, consent, settings, diagnostics, regional information and service activity.
 - Location information when authorised for location-based functions.
 
-Core user-directed functions are performed on-device. Other functions may require data exchanges with All-Track or third-party services.
+Core user-directed functions are performed on-device. Other functions may require data exchanges with T-Shop or third-party services.
 
 ## 2. Location Data
 
-Following a user request and device permission, the App may process foreground location information to provide location-based functions. All-Track does not use background location. Location and related regional or store information may be retained or disclosed to service providers where necessary to provide, maintain or secure those functions. The functions may be unavailable without the required permission or information.
+Following a user request and device permission, the App may process foreground location information to provide location-based functions. T-Shop does not use background location. Location and related regional or store information may be retained or disclosed to service providers where necessary to provide, maintain or secure those functions. The functions may be unavailable without the required permission or information.
 
 ## 3. Purposes
 
@@ -36,6 +36,20 @@ The App may request permissions required by enabled functions, including notific
 Pseudonymous analytics records may include data associated with Track, Shopping List, store-discovery and comparison functions, including product references, observed results, user selections, retailers, branches, totals, status, timestamps and related technical data.
 
 Records may be aggregated or de-identified for analytics, research, product development and commercial use.
+
+For online-order confirmations, T-Shop may collect:
+
+- Retailer, branch, confirmation status, fulfilment method, currency and confirmation time.
+- Confirmed products, retailer product identifiers, names, quantities, sale types and line amounts.
+- Subtotal, total, bag fees, service fees, discounts and GST.
+- Products matched to the T-Shop list, quantity changes, missing products and products added at the retailer.
+
+T-Shop does not collect:
+
+- Passwords, one-time codes, cookies, authorisation credentials or session tokens.
+- Payment-card, bank-account or payment data.
+- Contact details, addresses or delivery instructions.
+- Retailer order identifiers.
 
 ## 5. Disclosure
 
@@ -71,8 +85,8 @@ We may amend this Policy. Material amendments may require renewed acknowledgemen
 
 ## 10. Controller
 
-**Castle One X / All-Track**
+**Castle One X / T-Shop**
 **Email:** all-track-app@proton.me
 
-© 2026 All-Track App.
+© 2026 T-Shop App.
 
