@@ -1,20 +1,20 @@
-# ALL-TRACK TERMS OF SERVICE
+# T-SHOP TERMS OF SERVICE
 
 **Last updated: 27 July 2026**
 
-These Terms govern use of **All-Track**, provided by Castle One X (“we”). Use of the App constitutes acceptance of these Terms and the Privacy Policy.
+These Terms govern use of **T-Shop** (formerly **All-Track App**), provided by Castle One X (“we”). Use of the App constitutes acceptance of these Terms and the Privacy Policy.
 
 ## 1. Service
 
-All-Track is a user-directed application for checking public content and price information, managing shopping lists, comparing retailers, locating stores, issuing notifications and related functions. Core functions are provided on-device. Checks may be manual or scheduled by the user. Some functions rely on All-Track or third-party services.
+T-Shop is a user-directed application for checking public content and price information, managing shopping lists, comparing retailers, locating stores, issuing notifications and related functions. Core functions are provided on-device. Checks may be manual or scheduled by the user. Some functions rely on T-Shop or third-party services.
 
-The user selects the content and destinations processed by the App. All-Track does not host or control third-party websites or their content. Availability varies by device, region, retailer and configuration.
+The user selects the content and destinations processed by the App. T-Shop does not host or control third-party websites or their content. Availability varies by device, region, retailer and configuration.
 
 ## 2. Third-Party Data and Transactions
 
 Prices, availability, product matches, package data, branches, distances and totals originate from or depend on third parties and may be inaccurate, incomplete or delayed. Users must verify product, quantity, price and store before purchase.
 
-All-Track is not a retailer, seller, payment provider, financial adviser or party to any third-party transaction. Third-party terms and policies apply.
+T-Shop is not a retailer, seller, payment provider, financial adviser or party to any third-party transaction. Third-party terms and policies apply.
 
 ## 3. Location and Permissions
 
@@ -56,7 +56,7 @@ The App is provided **“as is”** and **“as available”**. To the maximum e
 
 To the maximum extent permitted by law, Castle One X and its affiliates exclude liability for direct, indirect, incidental, special, consequential or punitive loss, including loss of profit, savings, data, opportunity or goodwill; excessive battery, mobile-data or other device-resource consumption; and hardware degradation arising from use or inability to use the App.
 
-Where liability cannot be excluded, aggregate liability is limited to the amount paid for All-Track during the preceding 12 months, unless applicable law requires otherwise.
+Where liability cannot be excluded, aggregate liability is limited to the amount paid for T-Shop during the preceding 12 months, unless applicable law requires otherwise.
 
 ## 10. Indemnity
 
@@ -72,8 +72,9 @@ These Terms are governed by the laws applicable where Castle One X is legally es
 
 ## 13. Contact
 
-**Castle One X / All-Track**
+**Castle One X / T-Shop**
 **Email:** all-track-app@proton.me
 
-© 2026 All-Track App.
+© 2026 T-Shop App.
+
 
